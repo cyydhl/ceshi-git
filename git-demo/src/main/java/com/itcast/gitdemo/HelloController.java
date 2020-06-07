@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
     @RequestMapping("info")
     public String info(){
-        return "Hello Springboot info 2222";
+        return "Hello Springboot info 444444";
     }
 }
